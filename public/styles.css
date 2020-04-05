@@ -1,0 +1,39 @@
+.App {
+  font-family: "Nanum Pen Script", cursive;
+  text-align: center;
+  margin: 3em auto;
+}
+
+.card {
+  background-color: #ffffff00;
+  border-style: none;
+}
+
+.cardimg {
+  height: 55vh;
+  width: auto;
+  margin: 1em auto;
+}
+
+.cardTitle {
+  margin: 0.5em auto;
+}
+
+body {
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+
+h1 {
+  padding-bottom: 0.5em;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.75em;
+  margin-top: 3em;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+  margin: 1em auto;
+}

@@ -1,2 +1,0 @@
-# Frenchie
-Created with CodeSandbox
